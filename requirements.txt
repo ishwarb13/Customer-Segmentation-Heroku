@@ -3,3 +3,4 @@ packaging==23.2
 Flask==1.1.2
 numpy
 setuptools==69.0.3
+Jinja2==2.11.3
